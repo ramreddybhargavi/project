@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>AI Text Summarizer</title>
+
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>AI Text Summarizer</h1>
+
+<p>Paste your text and generate a short summary </p>
+
+<form method="POST">
+
+<textarea name="text" placeholder="Paste your long text here..."></textarea>
+
+<br>
+
+<button type="submit">Generate Summary</button>
+
+</form>
+
+<h3>Summary</h3>
+
+<p>{{summary}}</p>
+
+</div>
+
+</body>
+
+</html>
