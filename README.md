@@ -1,10 +1,10 @@
 AI Text Summarizer
 
-An AI Text Summarizer is a tool that uses techniques from Natural Language Processing (NLP) and Machine Learning to convert long pieces of text into shorter, meaningful summaries while preserving the main ideas.
+An AI Text Summarizer is a tool that uses techniques from Natural Language Processing (NLP) and Machine Learning to convert long pieces of text into shorter,  meaningful summaries while preserving the main ideas.
 
  It helps users quickly understand large content like articles, documents, or reports without reading everything.
 
- How It Works
+How It Works
 
 The summarizer typically follows these steps:
 
@@ -25,7 +25,7 @@ Deep Learning
 Transformer models (like BERT, GPT)
 Python libraries: NLTK, spaCy, Hugging Face Transformers
 
- Applications
+Applications
  
 Summarizing articles and research papers
 News summarization
@@ -40,7 +40,7 @@ Improves productivity
 Handles large data efficiently
 Provides quick insights
 
- Limitations
+Limitations
  
 May miss some important details
 Sometimes generates incorrect or vague summaries
